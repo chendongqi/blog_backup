@@ -5,7 +5,7 @@ subtitle:   "小站简介"
 navcolor:   "invert"
 date:       2017-02-09
 author:     "Cheson"
-header-img: ""
+header-img: "/img/website/home-bg.jpg"
 catalog: true
 tags:
     - 前端
