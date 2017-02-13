@@ -1,12 +1,15 @@
 ---
 layout:     post
 title:      "第一次搭建个人主页"
-subtitle:   "用jekyll+GitHub搭建个人站点"
+subtitle:   "用jekyll+GitHub Page搭建个人站点"
 navcolor:   "invert"
 date:       2017-02-13
 author:     "Cheson"
 tags:
     - 前端
+    - jekyll
+    - GitHub Page
+    
 ---
 
 ## 一、使用Jekyll搭建个人本地博客网站
