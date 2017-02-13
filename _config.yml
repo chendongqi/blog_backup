@@ -94,7 +94,3 @@ friends:
         href: "https://www.dandyweng.com/"
     }
 ]
-
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-cayman
